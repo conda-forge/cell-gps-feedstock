@@ -1,5 +1,5 @@
 context:
-  version: "0.0.6"
+  version: "0.0.7"
 
 package:
   name: cell-gps
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/cell-gps/cell_gps-${{ version }}.tar.gz
-  sha256: 7e273f817c35977e535872962f71cfd6c8b346ddf9d96f8a069daf1c1b52fc4c
+  sha256: 081e1a5e6ed8191a9a0f71454f9cb00a678be7764b26724e70c5fa1db6ec3e81
 
 build:
   noarch: python
